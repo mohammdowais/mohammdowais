@@ -27,7 +27,7 @@
 <h2 align="center"> 📈 &nbsp;My GitHub History!</h2>
 
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammdowais&show_icons=true&count_private=true&bg_color=0D1117) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sahilali8808&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammdowais&show_icons=true&count_private=true&bg_color=0D1117) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohammdowais&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
 ![Profile views](https://gpvc.arturio.dev/mohammdowais) 
 
 ![Snake animation](https://github.com/mohammdowais/mohammdowais/blob/output/github-contribution-grid-snake.svg)
